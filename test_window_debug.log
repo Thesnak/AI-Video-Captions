@@ -1,0 +1,6 @@
+2025-01-12 20:56:06,971 - __main__ - DEBUG - Starting diagnostic application
+2025-01-12 20:56:07,014 - __main__ - DEBUG - DiagnosticWindow initialization STARTED
+2025-01-12 20:56:07,015 - __main__ - DEBUG - Primary screen geometry: PyQt6.QtCore.QRect(0, 0, 1920, 1080)
+2025-01-12 20:56:07,038 - __main__ - DEBUG - DiagnosticWindow initialization COMPLETED
+2025-01-12 20:56:07,140 - __main__ - DEBUG - Starting app.exec()
+2025-01-12 20:56:12,200 - __main__ - DEBUG - Application exited with code: 0

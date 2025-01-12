@@ -1,0 +1,98 @@
+2025-01-12 20:13:44,012 - __main__ - INFO - QApplication created successfully
+2025-01-12 20:13:44,451 - py.warnings - WARNING - C:\Users\express\AppData\Local\Programs\Python\Python311\Lib\site-packages\whisper\__init__.py:150: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(fp, map_location=device)
+
+2025-01-12 20:13:46,035 - presentation.main_window - DEBUG - Initial window geometry: PyQt6.QtCore.QRect(100, 100, 1200, 800)
+2025-01-12 20:13:46,036 - presentation.main_window - DEBUG - Initial window size: PyQt6.QtCore.QSize(1200, 800)
+2025-01-12 20:13:46,122 - presentation.main_window - DEBUG - Window created. Is visible: False
+2025-01-12 20:13:46,123 - __main__ - INFO - Window created. Is visible: False
+2025-01-12 20:13:46,123 - __main__ - INFO - Window geometry: PyQt6.QtCore.QRect(100, 100, 1200, 800)
+2025-01-12 20:13:46,124 - __main__ - INFO - Window size: PyQt6.QtCore.QSize(1200, 800)
+2025-01-12 20:13:46,179 - presentation.main_window - DEBUG - Window show event triggered
+2025-01-12 20:13:46,220 - presentation.main_window - DEBUG - Event type: 17
+2025-01-12 20:13:46,227 - __main__ - INFO - Window show() called. Is visible: True
+2025-01-12 20:13:46,230 - presentation.main_window - DEBUG - Event type: 24
+2025-01-12 20:13:47,362 - presentation.main_window - DEBUG - Event type: 25
+2025-01-12 20:13:47,602 - presentation.main_window - DEBUG - Event type: 24
+2025-01-12 20:13:49,881 - presentation.main_window - DEBUG - Event type: 25
+2025-01-12 20:13:50,120 - presentation.main_window - DEBUG - Event type: 24
+2025-01-12 20:13:55,434 - presentation.main_window - DEBUG - Event type: 25
+2025-01-12 20:13:55,642 - presentation.main_window - DEBUG - Event type: 24
+2025-01-12 20:14:02,496 - presentation.main_window - DEBUG - Event type: 25
+2025-01-12 20:14:06,424 - presentation.main_window - DEBUG - Event type: 24
+2025-01-12 20:14:06,478 - presentation.main_window - DEBUG - Event type: 25
+2025-01-12 20:14:07,957 - presentation.main_window - DEBUG - Event type: 24
+2025-01-12 20:14:09,270 - presentation.main_window - DEBUG - Event type: 25
+2025-01-12 20:14:09,272 - presentation.main_window - DEBUG - Event type: 18
+2025-01-12 20:14:09,761 - presentation.main_window - DEBUG - Window show event triggered
+2025-01-12 20:14:09,768 - presentation.main_window - DEBUG - Event type: 17
+2025-01-12 20:14:09,785 - presentation.main_window - DEBUG - Event type: 24
+2025-01-12 20:14:09,935 - presentation.main_window - DEBUG - Event type: 25
+2025-01-12 20:14:09,936 - presentation.main_window - DEBUG - Event type: 18
+2025-01-12 20:14:10,143 - presentation.main_window - DEBUG - Window show event triggered
+2025-01-12 20:14:10,148 - presentation.main_window - DEBUG - Event type: 17
+2025-01-12 20:14:10,163 - presentation.main_window - DEBUG - Event type: 24
+2025-01-12 20:14:10,274 - presentation.main_window - DEBUG - Event type: 25
+2025-01-12 20:14:10,274 - presentation.main_window - DEBUG - Event type: 18
+2025-01-12 20:14:10,443 - presentation.main_window - DEBUG - Window show event triggered
+2025-01-12 20:14:10,445 - presentation.main_window - DEBUG - Event type: 17
+2025-01-12 20:14:10,461 - presentation.main_window - DEBUG - Event type: 24
+2025-01-12 20:14:10,679 - presentation.main_window - DEBUG - Event type: 25
+2025-01-12 20:14:10,680 - presentation.main_window - DEBUG - Event type: 18
+2025-01-12 20:14:11,532 - presentation.main_window - DEBUG - Window show event triggered
+2025-01-12 20:14:11,536 - presentation.main_window - DEBUG - Event type: 17
+2025-01-12 20:14:11,546 - presentation.main_window - DEBUG - Event type: 24
+2025-01-12 20:14:11,749 - presentation.main_window - DEBUG - Event type: 25
+2025-01-12 20:14:11,750 - presentation.main_window - DEBUG - Event type: 18
+2025-01-12 20:14:11,905 - presentation.main_window - DEBUG - Window show event triggered
+2025-01-12 20:14:11,912 - presentation.main_window - DEBUG - Event type: 17
+2025-01-12 20:14:11,920 - presentation.main_window - DEBUG - Event type: 24
+2025-01-12 20:14:12,129 - presentation.main_window - DEBUG - Event type: 25
+2025-01-12 20:14:12,131 - presentation.main_window - DEBUG - Event type: 18
+2025-01-12 20:14:12,419 - presentation.main_window - DEBUG - Window show event triggered
+2025-01-12 20:14:12,427 - presentation.main_window - DEBUG - Event type: 17
+2025-01-12 20:14:12,435 - presentation.main_window - DEBUG - Event type: 24
+2025-01-12 20:14:13,254 - presentation.main_window - DEBUG - Event type: 25
+2025-01-12 20:14:13,255 - presentation.main_window - DEBUG - Event type: 18
+2025-01-12 20:14:15,715 - presentation.main_window - DEBUG - Window show event triggered
+2025-01-12 20:14:15,717 - presentation.main_window - DEBUG - Event type: 17
+2025-01-12 20:14:15,726 - presentation.main_window - DEBUG - Event type: 24
+2025-01-12 20:14:17,305 - presentation.main_window - DEBUG - Event type: 25
+2025-01-12 20:14:17,539 - presentation.main_window - DEBUG - Event type: 24
+2025-01-12 20:14:18,815 - presentation.main_window - DEBUG - Event type: 25
+2025-01-12 20:14:19,017 - presentation.main_window - DEBUG - Event type: 24
+2025-01-12 20:14:20,718 - presentation.main_window - DEBUG - Event type: 25
+2025-01-12 20:14:20,930 - presentation.main_window - DEBUG - Event type: 24
+2025-01-12 20:14:23,714 - presentation.main_window - DEBUG - Event type: 25
+2025-01-12 20:14:23,906 - presentation.main_window - DEBUG - Event type: 18
+2025-01-12 20:14:23,914 - __main__ - INFO - Application exited with code: 0
+2025-01-12 20:15:12,099 - __main__ - INFO - QApplication created successfully
+2025-01-12 20:15:12,477 - py.warnings - WARNING - C:\Users\express\AppData\Local\Programs\Python\Python311\Lib\site-packages\whisper\__init__.py:150: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(fp, map_location=device)
+
+2025-01-12 20:15:13,849 - presentation.main_window - DEBUG - Initial window geometry: PyQt6.QtCore.QRect(100, 100, 1200, 800)
+2025-01-12 20:15:13,850 - presentation.main_window - DEBUG - Initial window size: PyQt6.QtCore.QSize(1200, 800)
+2025-01-12 20:15:13,926 - presentation.main_window - DEBUG - Window created. Is visible: False
+2025-01-12 20:15:13,976 - presentation.main_window - DEBUG - Window show event triggered
+2025-01-12 20:15:14,019 - presentation.main_window - DEBUG - Event type: 17
+2025-01-12 20:15:14,029 - presentation.main_window - DEBUG - Event type: 24
+2025-01-12 20:15:16,953 - presentation.main_window - DEBUG - Event type: 25
+2025-01-12 20:15:16,953 - presentation.main_window - DEBUG - Event type: 18
+2025-01-12 20:15:20,559 - presentation.main_window - DEBUG - Window show event triggered
+2025-01-12 20:15:20,570 - presentation.main_window - DEBUG - Event type: 17
+2025-01-12 20:15:20,606 - presentation.main_window - DEBUG - Event type: 24
+2025-01-12 20:15:21,410 - presentation.main_window - DEBUG - Event type: 25
+2025-01-12 20:15:31,692 - presentation.main_window - DEBUG - Event type: 24
+2025-01-12 20:15:32,950 - presentation.main_window - DEBUG - Event type: 25
+2025-01-12 20:15:32,950 - presentation.main_window - DEBUG - Event type: 18
+2025-01-12 20:15:37,434 - presentation.main_window - DEBUG - Event type: 18
+2025-01-12 20:15:37,445 - __main__ - INFO - Application exited with code: 0
+2025-01-12 20:19:43,478 - __main__ - INFO - QApplication created successfully
+2025-01-12 20:19:44,005 - py.warnings - WARNING - C:\Users\express\AppData\Local\Programs\Python\Python311\Lib\site-packages\whisper\__init__.py:150: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(fp, map_location=device)
+
+2025-01-12 20:19:45,649 - presentation.main_window - DEBUG - MainWindow initialization started
+2025-01-12 20:19:45,726 - presentation.main_window - DEBUG - MainWindow initialization completed
+2025-01-12 20:19:45,792 - presentation.main_window - DEBUG - Window show event triggered
+2025-01-12 20:19:49,493 - presentation.main_window - DEBUG - Window show event triggered
+2025-01-12 20:19:57,181 - __main__ - INFO - Application exited with code: 0

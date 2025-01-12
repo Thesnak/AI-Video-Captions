@@ -1,0 +1,32 @@
+2025-01-12 20:16:22,843 - presentation.main_window - DEBUG - Starting diagnostic application
+2025-01-12 20:16:22,844 - __main__ - ERROR - Unexpected error occurred: name 'QApplication' is not defined
+Traceback (most recent call last):
+  File "d:\Ai-Video-Captions\main.py", line 20, in main
+    exit_code = run_diagnostic()
+                ^^^^^^^^^^^^^^^^
+  File "d:\Ai-Video-Captions\presentation\main_window.py", line 422, in run_diagnostic
+    app = QApplication(sys.argv)
+          ^^^^^^^^^^^^
+NameError: name 'QApplication' is not defined
+2025-01-12 20:17:25,906 - presentation.main_window - DEBUG - Starting diagnostic application
+2025-01-12 20:17:25,908 - presentation.main_window - DEBUG - DiagnosticWindow __init__ started
+2025-01-12 20:17:25,910 - presentation.main_window - DEBUG - Window geometry: PyQt6.QtCore.QRect(100, 100, 800, 600)
+2025-01-12 20:17:25,911 - presentation.main_window - DEBUG - Window size: PyQt6.QtCore.QSize(800, 600)
+2025-01-12 20:17:25,928 - presentation.main_window - DEBUG - DiagnosticWindow __init__ completed
+2025-01-12 20:17:25,928 - presentation.main_window - DEBUG - Calling window.show()
+2025-01-12 20:17:25,961 - presentation.main_window - DEBUG - showEvent triggered
+2025-01-12 20:17:25,993 - presentation.main_window - DEBUG - Calling window.raise_()
+2025-01-12 20:17:25,994 - presentation.main_window - DEBUG - Calling window.activateWindow()
+2025-01-12 20:17:25,994 - presentation.main_window - DEBUG - Starting app.exec()
+2025-01-12 20:17:35,332 - presentation.main_window - DEBUG - Application exited with code: 0
+2025-01-12 20:17:42,809 - presentation.main_window - DEBUG - Starting diagnostic application
+2025-01-12 20:17:42,811 - presentation.main_window - DEBUG - DiagnosticWindow __init__ started
+2025-01-12 20:17:42,812 - presentation.main_window - DEBUG - Window geometry: PyQt6.QtCore.QRect(100, 100, 800, 600)
+2025-01-12 20:17:42,813 - presentation.main_window - DEBUG - Window size: PyQt6.QtCore.QSize(800, 600)
+2025-01-12 20:17:42,831 - presentation.main_window - DEBUG - DiagnosticWindow __init__ completed
+2025-01-12 20:17:42,831 - presentation.main_window - DEBUG - Calling window.show()
+2025-01-12 20:17:42,862 - presentation.main_window - DEBUG - showEvent triggered
+2025-01-12 20:17:42,908 - presentation.main_window - DEBUG - Calling window.raise_()
+2025-01-12 20:17:42,911 - presentation.main_window - DEBUG - Calling window.activateWindow()
+2025-01-12 20:17:42,911 - presentation.main_window - DEBUG - Starting app.exec()
+2025-01-12 20:17:54,553 - presentation.main_window - DEBUG - Application exited with code: 0

@@ -1,0 +1,142 @@
+2025-01-12 20:43:50,919 - __main__ - INFO - QApplication created successfully
+2025-01-12 20:43:51,307 - py.warnings - WARNING - C:\Users\express\AppData\Local\Programs\Python\Python311\Lib\site-packages\whisper\__init__.py:150: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(fp, map_location=device)
+
+2025-01-12 20:43:52,523 - presentation.main_window - DEBUG - MainWindow initialization STARTED
+2025-01-12 20:43:52,523 - presentation.main_window - DEBUG - Current process ID: 27964
+2025-01-12 20:43:52,526 - presentation.main_window - DEBUG - Primary screen geometry: PyQt6.QtCore.QRect(0, 0, 1920, 1080)
+2025-01-12 20:43:52,526 - presentation.main_window - DEBUG - Set window geometry to: x=360, y=140, width=1200, height=800
+2025-01-12 20:43:52,588 - presentation.main_window - DEBUG - MainWindow initialization COMPLETED
+2025-01-12 20:43:52,589 - presentation.main_window - DEBUG - Window created. Is visible: False
+2025-01-12 20:43:52,589 - presentation.main_window - DEBUG - Window geometry: PyQt6.QtCore.QRect(360, 140, 1200, 800)
+2025-01-12 20:43:52,645 - presentation.main_window - DEBUG - showEvent triggered
+2025-01-12 20:43:52,731 - presentation.main_window - ERROR - Could not set window to foreground: (126, 'SetForegroundWindow', 'The specified module could not be found.')
+2025-01-12 20:43:52,732 - presentation.main_window - DEBUG - showEvent completed. Window visible: True
+2025-01-12 20:43:52,732 - presentation.main_window - DEBUG - Event type: 17
+2025-01-12 20:43:52,743 - presentation.main_window - DEBUG - Event type: 24
+2025-01-12 20:43:56,545 - presentation.main_window - DEBUG - Event type: 25
+2025-01-12 20:43:56,790 - presentation.main_window - DEBUG - Event type: 24
+2025-01-12 20:43:58,475 - presentation.main_window - DEBUG - Event type: 25
+2025-01-12 20:43:58,709 - presentation.main_window - DEBUG - Event type: 24
+2025-01-12 20:44:00,783 - presentation.main_window - DEBUG - Event type: 25
+2025-01-12 20:44:00,975 - presentation.main_window - DEBUG - Event type: 18
+2025-01-12 20:44:00,981 - __main__ - INFO - Application exited with code: 0
+2025-01-12 20:44:27,992 - __main__ - INFO - QApplication created successfully
+2025-01-12 20:44:28,348 - py.warnings - WARNING - C:\Users\express\AppData\Local\Programs\Python\Python311\Lib\site-packages\whisper\__init__.py:150: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(fp, map_location=device)
+
+2025-01-12 20:44:29,376 - presentation.main_window - DEBUG - MainWindow initialization STARTED
+2025-01-12 20:44:29,377 - presentation.main_window - DEBUG - Current process ID: 27004
+2025-01-12 20:44:29,379 - presentation.main_window - DEBUG - Primary screen geometry: PyQt6.QtCore.QRect(0, 0, 1920, 1080)
+2025-01-12 20:44:29,381 - presentation.main_window - DEBUG - Set window geometry to: x=360, y=140, width=1200, height=800
+2025-01-12 20:44:29,437 - presentation.main_window - DEBUG - MainWindow initialization COMPLETED
+2025-01-12 20:44:29,437 - presentation.main_window - DEBUG - Window created. Is visible: False
+2025-01-12 20:44:29,437 - presentation.main_window - DEBUG - Window geometry: PyQt6.QtCore.QRect(360, 140, 1200, 800)
+2025-01-12 20:44:29,476 - presentation.main_window - DEBUG - showEvent triggered
+2025-01-12 20:44:29,515 - presentation.main_window - DEBUG - showEvent completed. Window visible: True
+2025-01-12 20:44:29,515 - presentation.main_window - DEBUG - Event type: 17
+2025-01-12 20:44:29,523 - presentation.main_window - DEBUG - Event type: 24
+2025-01-12 20:44:34,711 - presentation.main_window - DEBUG - Event type: 25
+2025-01-12 20:44:34,962 - presentation.main_window - DEBUG - Event type: 24
+2025-01-12 20:44:37,127 - presentation.main_window - DEBUG - Event type: 25
+2025-01-12 20:44:37,361 - presentation.main_window - DEBUG - Event type: 24
+2025-01-12 20:44:38,864 - presentation.main_window - DEBUG - Event type: 25
+2025-01-12 20:44:48,507 - presentation.main_window - DEBUG - Event type: 24
+2025-01-12 20:44:52,656 - presentation.main_window - DEBUG - Event type: 25
+2025-01-12 20:44:54,573 - presentation.main_window - DEBUG - Event type: 18
+2025-01-12 20:44:54,584 - presentation.main_window - DEBUG - Event type: 24
+2025-01-12 20:44:54,585 - presentation.main_window - DEBUG - Event type: 25
+2025-01-12 20:44:54,588 - __main__ - INFO - Application exited with code: 0
+2025-01-12 20:45:36,427 - __main__ - INFO - QApplication created successfully
+2025-01-12 20:45:36,842 - py.warnings - WARNING - C:\Users\express\AppData\Local\Programs\Python\Python311\Lib\site-packages\whisper\__init__.py:150: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(fp, map_location=device)
+
+2025-01-12 20:45:38,153 - presentation.main_window - DEBUG - MainWindow initialization STARTED
+2025-01-12 20:45:38,153 - presentation.main_window - DEBUG - Current process ID: 24340
+2025-01-12 20:45:38,156 - presentation.main_window - DEBUG - Primary screen geometry: PyQt6.QtCore.QRect(0, 0, 1920, 1080)
+2025-01-12 20:45:38,157 - presentation.main_window - DEBUG - Set window geometry to: x=360, y=140, width=1200, height=800
+2025-01-12 20:45:38,226 - presentation.main_window - DEBUG - MainWindow initialization COMPLETED
+2025-01-12 20:45:38,226 - presentation.main_window - DEBUG - Window created. Is visible: False
+2025-01-12 20:45:38,226 - presentation.main_window - DEBUG - Window geometry: PyQt6.QtCore.QRect(360, 140, 1200, 800)
+2025-01-12 20:45:38,275 - presentation.main_window - DEBUG - showEvent triggered
+2025-01-12 20:45:38,319 - presentation.main_window - DEBUG - showEvent completed. Window visible: True
+2025-01-12 20:45:38,320 - presentation.main_window - DEBUG - Event type: 17
+2025-01-12 20:45:38,329 - presentation.main_window - DEBUG - Event type: 24
+2025-01-12 20:45:49,571 - presentation.main_window - DEBUG - Event type: 25
+2025-01-12 20:45:49,795 - presentation.main_window - DEBUG - Event type: 24
+2025-01-12 20:45:52,960 - presentation.main_window - DEBUG - Event type: 25
+2025-01-12 20:45:55,253 - presentation.main_window - DEBUG - Event type: 24
+2025-01-12 20:45:56,107 - presentation.main_window - DEBUG - Event type: 25
+2025-01-12 20:46:01,238 - presentation.main_window - DEBUG - Event type: 18
+2025-01-12 20:46:01,248 - __main__ - INFO - Application exited with code: 0
+2025-01-12 20:49:48,668 - __main__ - INFO - QApplication created successfully
+2025-01-12 20:49:49,094 - py.warnings - WARNING - C:\Users\express\AppData\Local\Programs\Python\Python311\Lib\site-packages\whisper\__init__.py:150: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(fp, map_location=device)
+
+2025-01-12 20:49:50,476 - presentation.main_window - DEBUG - MainWindow initialization STARTED
+2025-01-12 20:49:50,477 - presentation.main_window - DEBUG - Current process ID: 22128
+2025-01-12 20:49:50,483 - presentation.main_window - DEBUG - Primary screen geometry: PyQt6.QtCore.QRect(0, 0, 1920, 1080)
+2025-01-12 20:49:50,483 - presentation.main_window - DEBUG - Set window geometry to: x=192, y=162, width=1536, height=756
+2025-01-12 20:49:50,597 - presentation.main_window - DEBUG - MainWindow initialization COMPLETED
+2025-01-12 20:49:50,597 - presentation.main_window - DEBUG - Window created. Is visible: False
+2025-01-12 20:49:50,598 - presentation.main_window - DEBUG - Window geometry: PyQt6.QtCore.QRect(192, 162, 1536, 756)
+2025-01-12 20:49:50,653 - presentation.main_window - DEBUG - showEvent triggered
+2025-01-12 20:49:50,700 - presentation.main_window - DEBUG - showEvent completed. Window visible: True
+2025-01-12 20:49:50,701 - presentation.main_window - DEBUG - Event type: 17
+2025-01-12 20:49:50,709 - presentation.main_window - DEBUG - Event type: 24
+2025-01-12 20:49:53,245 - presentation.main_window - DEBUG - Event type: 25
+2025-01-12 20:49:53,504 - presentation.main_window - DEBUG - Event type: 24
+2025-01-12 20:49:55,582 - presentation.main_window - DEBUG - Event type: 25
+2025-01-12 20:50:02,297 - presentation.main_window - DEBUG - Event type: 24
+2025-01-12 20:50:04,473 - presentation.main_window - DEBUG - Event type: 25
+2025-01-12 20:50:55,118 - presentation.main_window - DEBUG - Event type: 24
+2025-01-12 20:50:56,623 - presentation.main_window - DEBUG - Event type: 25
+2025-01-12 20:51:04,857 - presentation.main_window - DEBUG - Event type: 24
+2025-01-12 20:51:05,504 - presentation.main_window - DEBUG - Event type: 25
+2025-01-12 20:51:05,954 - presentation.main_window - DEBUG - Event type: 24
+2025-01-12 20:51:06,901 - presentation.main_window - DEBUG - Event type: 25
+2025-01-12 20:51:46,701 - presentation.main_window - DEBUG - Event type: 24
+2025-01-12 20:51:47,149 - presentation.main_window - DEBUG - Event type: 25
+2025-01-12 20:51:49,989 - presentation.main_window - DEBUG - Event type: 24
+2025-01-12 20:51:57,755 - presentation.main_window - DEBUG - Event type: 25
+2025-01-12 20:51:58,008 - presentation.main_window - DEBUG - Event type: 24
+2025-01-12 20:52:00,583 - presentation.main_window - DEBUG - Event type: 25
+2025-01-12 20:52:35,565 - presentation.main_window - DEBUG - Event type: 24
+2025-01-12 20:52:37,866 - presentation.main_window - DEBUG - Event type: 25
+2025-01-12 20:52:39,454 - presentation.main_window - DEBUG - Event type: 18
+2025-01-12 20:52:39,460 - presentation.main_window - DEBUG - Event type: 24
+2025-01-12 20:52:39,460 - presentation.main_window - DEBUG - Event type: 25
+2025-01-12 20:52:39,464 - __main__ - INFO - Application exited with code: 0
+2025-01-12 20:54:44,897 - __main__ - INFO - QApplication created successfully
+2025-01-12 20:54:45,481 - py.warnings - WARNING - C:\Users\express\AppData\Local\Programs\Python\Python311\Lib\site-packages\whisper\__init__.py:150: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(fp, map_location=device)
+
+2025-01-12 20:54:47,244 - presentation.main_window - DEBUG - MainWindow initialization STARTED
+2025-01-12 20:54:47,245 - presentation.main_window - DEBUG - Current process ID: 25724
+2025-01-12 20:54:47,248 - presentation.main_window - DEBUG - Primary screen geometry: PyQt6.QtCore.QRect(0, 0, 1920, 1080)
+2025-01-12 20:54:47,250 - presentation.main_window - DEBUG - Set window geometry to: x=192, y=162, width=1536, height=756
+2025-01-12 20:54:47,324 - presentation.main_window - DEBUG - showEvent triggered
+2025-01-12 20:54:47,375 - presentation.main_window - DEBUG - showEvent completed. Window visible: True
+2025-01-12 20:54:47,376 - presentation.main_window - DEBUG - Event type: 17
+2025-01-12 20:54:47,459 - presentation.main_window - DEBUG - MainWindow initialization COMPLETED
+2025-01-12 20:54:47,459 - presentation.main_window - DEBUG - Window created. Is visible: True
+2025-01-12 20:54:47,461 - presentation.main_window - DEBUG - Window geometry: PyQt6.QtCore.QRect(192, 193, 1536, 756)
+2025-01-12 20:54:47,471 - presentation.main_window - DEBUG - Event type: 24
+2025-01-12 20:54:47,517 - presentation.main_window - DEBUG - Event type: 25
+2025-01-12 20:54:47,538 - presentation.main_window - DEBUG - Event type: 18
+2025-01-12 20:54:47,540 - presentation.main_window - DEBUG - showEvent triggered
+2025-01-12 20:54:47,571 - presentation.main_window - DEBUG - showEvent completed. Window visible: True
+2025-01-12 20:54:47,571 - presentation.main_window - DEBUG - Event type: 17
+2025-01-12 20:54:47,590 - presentation.main_window - DEBUG - Event type: 24
+2025-01-12 20:54:47,688 - __main__ - INFO - Forcing window visibility
+2025-01-12 20:54:48,088 - __main__ - INFO - Forcing window visibility
+2025-01-12 20:54:48,589 - __main__ - INFO - Forcing window visibility
+2025-01-12 20:54:49,589 - presentation.main_window - DEBUG - Event type: 25
+2025-01-12 20:54:49,824 - presentation.main_window - DEBUG - Event type: 24
+2025-01-12 20:54:53,212 - presentation.main_window - DEBUG - Event type: 25
+2025-01-12 20:55:00,942 - presentation.main_window - DEBUG - Event type: 24
+2025-01-12 20:55:04,743 - presentation.main_window - DEBUG - Event type: 25
+2025-01-12 20:55:05,758 - presentation.main_window - DEBUG - Event type: 24
+2025-01-12 20:55:07,212 - presentation.main_window - DEBUG - Event type: 25
+2025-01-12 20:55:16,247 - presentation.main_window - DEBUG - Event type: 18
+2025-01-12 20:55:16,253 - __main__ - INFO - Application exited with code: 0

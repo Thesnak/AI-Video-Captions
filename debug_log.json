@@ -1,0 +1,39 @@
+[
+  {
+    "timestamp": "2025-01-12T22:59:38.710104",
+    "type": "KeyboardInterrupt",
+    "message": "",
+    "traceback": "NoneType: None\n",
+    "system_info": {
+      "timestamp": "2025-01-12T22:59:38.711113",
+      "os": "Windows",
+      "os_version": "10.0.26100",
+      "os_release": "10",
+      "python_version": "3.11.9",
+      "architecture": "64bit",
+      "processor": "Intel64 Family 6 Model 142 Stepping 10, GenuineIntel",
+      "machine": "AMD64",
+      "env_vars": {
+        "ALLUSERSPROFILE": "C:\\ProgramData",
+        "HOMEDRIVE": "C:",
+        "HOMEPATH": "\\Users\\express",
+        "JAVA_HOME": "C:\\Program Files\\Java\\jdk-1.8",
+        "PATH": "C:\\Users\\express\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\cv2\\../../x64/vc14/bin;C:\\Users\\express\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt6\\Qt6\\bin;D:\\app\\express\\product\\12.1.0\\dbhome_1\\bin;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\Intel\\WiFi\\bin\\;C:\\Program Files\\Common Files\\Intel\\WirelessCommon\\;C:\\Program Files\\Git\\cmd;C:\\Program Files\\Java\\jdk-1.8;C:\\Program Files (x86)\\Microsoft SQL Server\\160\\DTS\\Binn\\;C:\\Program Files (x86)\\Microsoft SQL Server\\160\\Tools\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\160\\Tools\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\160\\DTS\\Binn\\;C:\\Program Files\\MiKTeX\\miktex\\bin\\x64\\;c:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;c:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Docker\\Docker\\resources\\bin;C:\\Program Files\\GitHub CLI\\;C:\\Users\\express\\scoop\\shims;C:\\Users\\express\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\;C:\\Users\\express\\AppData\\Local\\Programs\\Python\\Python311\\;C:\\Users\\express\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\express\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Program Files\\Java\\jdk-1.8;C:\\Users\\express\\AppData\\Local\\Programs\\Azure Data Studio\\bin;C:\\Users\\express\\AppData\\Local\\Programs\\Windsurf\\bin;C:\\Users\\express\\AppData\\Local\\Programs\\Aide\\bin;C:\\ffmpeg\\bin;",
+        "PATHEXT": ".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL",
+        "PSMODULEPATH": "C:\\Users\\express\\Documents\\WindowsPowerShell\\Modules;C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules;C:\\Program Files (x86)\\Microsoft SQL Server\\160\\Tools\\PowerShell\\Modules\\;C:\\Program Files\\Service Bus\\1.1\\;C:\\Program Files\\Workflow Manager\\1.0\\",
+        "USERDOMAIN": "DESKTOP-RMP1TDO",
+        "USERDOMAIN_ROAMINGPROFILE": "DESKTOP-RMP1TDO",
+        "USERNAME": "express",
+        "USERPROFILE": "C:\\Users\\express",
+        "WSA_PACMAN_HOME": "C:\\Program Files\\WSA PacMan"
+      }
+    },
+    "dependencies": {
+      "ffmpeg": "ffmpeg version 2025-01-08-git-251de1791e-full_build-www.gyan.dev Copyright (c) 2000-2025 the FFmpeg developers\nbuilt with gcc 14.2.0 (Rev1, Built by MSYS2 project)\nconfiguration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-lcms2 --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-libsnappy --enable-zlib --enable-librist --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-libbluray --enable-libcaca --enable-sdl2 --enable-libaribb24 --enable-libaribcaption --enable-libdav1d --enable-libdavs2 --enable-libopenjpeg --enable-libquirc --enable-libuavs3d --enable-libxevd --enable-libzvbi --enable-libqrencode --enable-librav1e --enable-libsvtav1 --enable-libvvenc --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxavs2 --enable-libxeve --enable-libxvid --enable-libaom --enable-libjxl --enable-libvpx --enable-mediafoundation --enable-libass --enable-frei0r --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-liblensfun --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libshaderc --enable-vulkan --enable-libplacebo --enable-opencl --enable-libcdio --enable-libgme --enable-libmodplug --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libshine --enable-libtheora --enable-libtwolame --enable-libvo-amrwbenc --enable-libcodec2 --enable-libilbc --enable-libgsm --enable-liblc3 --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-ladspa --enable-libbs2b --enable-libflite --enable-libmysofa --enable-librubberband --enable-libsoxr --enable-chromaprint\nlibavutil      59. 54.101 / 59. 54.101\nlibavcodec     61. 31.100 / 61. 31.100\nlibavformat    61.  9.104 / 61.  9.104\nlibavdevice    61.  4.100 / 61.  4.100\nlibavfilter    10.  6.101 / 10.  6.101\nlibswscale      8. 13.100 /  8. 13.100\nlibswresample   5.  4.100 /  5.  4.100\nlibpostproc    58.  4.100 / 58.  4.100",
+      "python": "Python 3.11.9",
+      "pip": "pip 24.0 from C:\\Users\\express\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pip (python 3.11)",
+      "torch": "2.5.1+cpu",
+      "whisper": "20240930"
+    }
+  }
+]

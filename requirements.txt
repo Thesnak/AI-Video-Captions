@@ -1,0 +1,15 @@
+PyQt6
+moviepy
+openai-whisper
+google-cloud-translate
+pathlib
+asyncio
+python-dotenv
+typing-extensions
+pywin32
+torch
+torchaudio
+numpy
+ffmpeg-python
+googletrans
+argostranslate
