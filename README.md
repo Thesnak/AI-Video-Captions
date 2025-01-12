@@ -1,4 +1,7 @@
 # AI Video Captions
+<p align="center">
+  <img src="https://github.com/Thesnak/AI-Video-Captions/blob/main/assets/logo.jpg?raw=true" alt="AI-Video-Captions Logo" width="200"/>
+</p>
 
 ## 🎥 Project Overview
 AI Video Captions is an advanced, open-source application for automated video transcription, captioning, and translation using cutting-edge AI technologies.
@@ -23,7 +26,7 @@ AI Video Captions is an advanced, open-source application for automated video tr
   - Argos Translate
 
 ## Demo Video
-![AI Video Captions Demo](https://user-images.githubusercontent.com/24365953/209460233-6e6b0a7c-8e7f-4da1-87c5-5a7c9c5daa1d.mp4)
+![AI Video Captions Demo]([https://user-images.githubusercontent.com/24365953/209460233-6e6b0a7c-8e7f-4da1-87c5-5a7c9c5daa1d.mp4](https://raw.githubusercontent.com/Thesnak/AI-Video-Captions/refs/heads/main/assets/AI%20Video%20Captions%20demo.mp4))
 
 
 ## 🚀 Installation
